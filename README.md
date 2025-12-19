@@ -10,7 +10,7 @@
 ---
 
 ## 2. Модель предметной области и ER-диаграмма
-[ER-диаграмма]([diagrams/er_diagram.png](https://github.com/Mddu11/DB_hse/blob/main/erdiagram/erdiagram.PNG))
+[ER-диаграмма](erdiagram/erdiagram.PNG)
 
 Для выбранной предметной области была разработана ER-диаграмма, отражающая ключевые бизнес-процессы интернет-магазина.
 
